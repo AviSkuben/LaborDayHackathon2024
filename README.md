@@ -20,7 +20,7 @@ We aim to design a non-profit inclusive platform to ensure that every small loca
 
 This project is meant to create a more inclusive job market which connects people from their communities to businesses that serve their communities (e.g. making small businesses that don’t have the capital to run a large number job postings on a more traditional forum). 
 Our platform enables small businesses to be seen and accessed by a broader audience. 
-It aligns with the 2024 Girls Can Code Hackathon Theme of inclusion and interconnectivity, as we bridge the gap between local enterprises and potential employees and investors, vreating a more diverse and inclusive job market. 
+It aligns with the 2024 Girls Can Code Hackathon Theme of inclusion and interconnectivity, as we bridge the gap between local enterprises and potential employees and investors, creating a more diverse and inclusive job market. 
 
 # Project Approach: 
 
