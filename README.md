@@ -24,10 +24,10 @@ It aligns with the 2024 Girls Can Code Hackathon Theme of inclusion and intercon
 
 # Project Approach: 
 
-an App/website built using the Thunkable platform. https://x.thunkable.com/copy/518ef2a67f288f38e39841760557630e 
+an App built using the Thunkable platform. https://x.thunkable.com/copy/518ef2a67f288f38e39841760557630e 
 
 
-Things wanted in App/website:
+App Features:
 
 Search bar (filters e.g. cooking, 5 mi away)
 
@@ -65,7 +65,7 @@ Need to store: user accounts and passwords, actual job postings, store job appli
 # Future Directions:
 
 
-As we continue developing the App, we want to polish the App/website to make sure that it's user friendly. Our goal is to expand the functionality and features to include a proper database, an improved GUI, collaboration tools for businesses, application tools for potential employees, personalized job matching and a community forum. 
+As we continue developing the App, we want to polish the App to make sure that it's user friendly. Our goal is to expand the functionality and features to include a proper database, an improved G.U.I, collaboration tools for businesses, application tools for potential employees, personalized job matching and a community forum. 
 Ultimately, we see our platform as a non-profit hub for local small business growth, promoting local economy and community development.
 
 
