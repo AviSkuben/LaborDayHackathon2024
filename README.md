@@ -5,11 +5,13 @@ Team members: Avi Skuben, Katherine Wang, Ellah Stewart, Lasya Goldman
 
 Mentor: Ms. Atluri
 
-The Link to the prototype/demo: https://x.thunkable.com/projectPage/66d4cda9f18656e0eba39ae5
-The Link to the thunkable App: https://x.thunkable.com/copy/9f568b6f23d36360f076f9ce01373024
+The Link to the prototype/demo: https://x.thunkable.com/projectPage/66d526c4cb12ea803ca327fe
+The Link to the thunkable Workplace: https://x.thunkable.com/copy/6ecaa21e0833769ad034eeb6244366f6
 
 
 # Project Topic: Job board - Getting small businesses seen
+
+# Project Name: BizSprout - Jobs from Small Businesses
 
 # The Purpose of the Project: 
 
@@ -27,8 +29,10 @@ It aligns with the 2024 Girls Can Code Hackathon Theme of inclusion and intercon
 # Project Approach: 
 
 an App built using the Thunkable platform.  
-Demo: https://x.thunkable.com/projectPage/66d4cda9f18656e0eba39ae5
-Workplace: https://x.thunkable.com/copy/9f568b6f23d36360f076f9ce01373024
+
+Demo: https://x.thunkable.com/projectPage/66d526c4cb12ea803ca327fe
+Workplace: https://x.thunkable.com/copy/6ecaa21e0833769ad034eeb6244366f6
+
 
 App Features:
 
