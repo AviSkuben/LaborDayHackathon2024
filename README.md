@@ -5,7 +5,9 @@ Team members: Avi Skuben, Katherine Wang, Ellah Stewart, Lasya Goldman
 
 Mentor: Ms. Atluri
 
-The Link to the prototype/demo: https://x.thunkable.com/copy/518ef2a67f288f38e39841760557630e 
+The Link to the prototype/demo: https://x.thunkable.com/projectPage/66d4cda9f18656e0eba39ae5
+The Link to the thunkable App: https://x.thunkable.com/copy/9f568b6f23d36360f076f9ce01373024
+
 
 # Project Topic: Job board - Getting small businesses seen
 
@@ -24,8 +26,9 @@ It aligns with the 2024 Girls Can Code Hackathon Theme of inclusion and intercon
 
 # Project Approach: 
 
-an App built using the Thunkable platform. https://x.thunkable.com/copy/518ef2a67f288f38e39841760557630e 
-
+an App built using the Thunkable platform.  
+Demo: https://x.thunkable.com/projectPage/66d4cda9f18656e0eba39ae5
+Workplace: https://x.thunkable.com/copy/9f568b6f23d36360f076f9ce01373024
 
 App Features:
 
